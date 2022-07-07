@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD JCE SQL", "CRUD JCE SQL\CRUD JCE SQL.csproj", "{B4161187-5843-4253-93A6-06A61C0B2EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4161187-5843-4253-93A6-06A61C0B2EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4161187-5843-4253-93A6-06A61C0B2EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4161187-5843-4253-93A6-06A61C0B2EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4161187-5843-4253-93A6-06A61C0B2EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B13140-CC8E-4FE1-80D8-297C911B67CC}
+	EndGlobalSection
+EndGlobal
